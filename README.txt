@@ -1,0 +1,1 @@
+The Sugared Batch single-file website. Open index.html in a browser. The order request flow is a front-end design only: it does not transmit orders, store customer details, or accept payment. Prices are placeholders. Confirm Michigan cottage food requirements and all product labels before launch.
